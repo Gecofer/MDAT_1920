@@ -6,4 +6,11 @@ Repositorio para la asignatura de Cálculo Estocástico en Finanzas del Máster 
 
 ### Descripción de la práctica
 
-El objetivo de la práctica es predecir la opción elegida por un usuario al que se le presentan diferentes posibilidades de transporte para moverse entre dos puntos de una ciudad china. Se pide ajustar modelos para predecir si un usuario hará click en alguno de los medios de transporte que se le presentan. Los tipos de modelos a contrastar serán árboles de decisión, regresiones logísticas, redes neuronales y ensamblados (random forest y gradient boosting). La tabla a utilizar para ajustar los modelos es: tablatransportestrain.sas7bdat.
+El objetivo de la práctica es predecir la opción elegida por un usuario al que se le presentan diferentes posibilidades de transporte para moverse entre dos puntos de una ciudad china. Se pide ajustar modelos para predecir si un usuario hará click en alguno de los medios de transporte que se le presentan. Los tipos de modelos a contrastar serán árboles de decisión, regresiones logísticas, redes neuronales y ensamblados (random forest y gradient boosting). La tabla a utilizar para ajustar los modelos es: `tablatransportestrain.sas7bdat`.
+
+### Componentes del grupo
+
+- Correa Fernández, Gema @gecorrea
+- De Isidro Navarro, Ágata
+- Ruiz-Arteaga González, Alberto
+
