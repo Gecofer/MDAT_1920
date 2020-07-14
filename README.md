@@ -2,7 +2,7 @@
 
 **Repositorio para la asignatura de Minería de Datos del Máster de Tratamiento Estadístico Computacional de la Información impartido conjuntamente por la UCM y la UPM del curso 2019/2029**
 
-### Componentes del grupo
+#### Componentes del grupo
 
 - Correa Fernández, Gema 
 - De Isidro Navarro, Ágata
